@@ -7,7 +7,7 @@ const config = {
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
-	avatar: "/img/avatar.jpg", // 头像
+	avatar: "https://s41.ax1x.com/2025/12/20/pZ3B1O0.jpg", // 头像
 	welcometitle: "Hi, I'm Xinxin", // 标题
 
 	// 颜色配置
