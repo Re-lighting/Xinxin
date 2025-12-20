@@ -1,14 +1,14 @@
 const config = {
 	//网页元数据
 	metaData: {
-		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		title: 'Xinxin的个人主页🎉',
+		description: '欢迎来到Xinxin的奇妙世界！',
+		keywords: 'Xinxin,Xinxin,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	welcometitle: "Hi, I'm Xinxin", // 标题
 
 	// 颜色配置
 	color: {
@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['对党忠诚', '温柔体贴','服务人民', '随和亲切', '热爱祖国', '才思敏捷', '风趣幽默', '清正廉洁', '善解人意'],
 
 	// 默认背景壁纸
 	background: {
