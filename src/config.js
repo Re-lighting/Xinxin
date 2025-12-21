@@ -55,10 +55,10 @@ const config = {
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://www.github.com/Re-lighting" },
 		{ icon: "mdi-email", link: "mailto:wzxmss@outlook.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
+		{ icon: "mdi-qqchat", link: "https://s41.ax1x.com/2025/12/21/pZ3XQ3Q.jpg" },
 		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
-		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
-		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
+	//{ icon: "mdi-youtube", link: "https://www.youtube.com" },
+	//{ icon: "mdi-facebook", link: "https://www.facebook.com" }
 	],
 
 	//打字机
