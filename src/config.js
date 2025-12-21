@@ -54,7 +54,7 @@ const config = {
 	//社交按钮
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://www.github.com/Re-lighting" },
-		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
+		{ icon: "mdi-email", link: "mailto:wzxmss@outlook.com" },
 		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
 		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
