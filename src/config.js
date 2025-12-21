@@ -142,7 +142,7 @@ const config = {
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
 		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://re-lighting.github.io/", show: false },
-		{ go: "🗂️ 前往", img: "https://s41.ax1x.com/2025/12/20/pZ3B4Xt.jpg", title: "网盘", subtitle: "云端的百宝箱，数据的避风港", text: "它不只是一个存储空间，更像是数字世界的 哆啦A 梦口袋 ，想要什么，一掏就有，只是别忘了，口袋再大，也得记得整理，不然找起文件来，比在现实世界找一只袜子还难！"，, url: "https://leleo.top", show: false },
+		{ go: "🗂️ 前往", img: "https://s41.ax1x.com/2025/12/20/pZ3B4Xt.jpg", title: "网盘", subtitle: "云端的百宝箱，数据的避风港", text: "它不只是一个存储空间，更像是数字世界的 哆啦A 梦口袋 ，想要什么，一掏就有，只是别忘了，口袋再大，也得记得整理，不然找起文件来，比在现实世界找一只袜子还难！", url: "https://leleo.top", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
