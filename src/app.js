@@ -9,6 +9,7 @@ import config from './config.js';
 import { getCookie } from './utils/cookieUtils.js';
 import { setMeta,getFormattedTime,getFormattedDate,dataConsole } from './utils/common.js';
 import { useDisplay } from 'vuetify'
+import { inject } from '@vercel/analytics';
 
 export default {
   components: {
@@ -71,6 +72,9 @@ export default {
     };
   },
   async mounted() {
+    // Initialize Vercel Web Analytics
+    inject();
+
     if(import.meta.env.VITE_CONFIG){
       this.configdata = JSON.parse(import.meta.env.VITE_CONFIG);
     }
