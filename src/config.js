@@ -141,7 +141,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "https://s41.ax1x.com/2025/12/21/pZ3xEu9.jpg", title: "博客", subtitle: "欢迎您的访问", text: "这博客怕是得了 写作拖延症 ，就像薛定谔的猫 --你不点进去 或许它正在偷偷酝酿一篇惊天动地的文章，只是还没找到灵感，或者干脆在摸鱼。总之，博客的门关得紧紧的，仿佛在说：今天不营业，改天再来吧！", url: "https://re-lighting.github.io/", show: false },
+		{ go: "🚀 前往", img: "https://s41.ax1x.com/2025/12/23/pZGe5wV.jpg", title: "博客", subtitle: "欢迎您的访问", text: "这博客怕是得了 写作拖延症 ，就像薛定谔的猫 --你不点进去 或许它正在偷偷酝酿一篇惊天动地的文章，只是还没找到灵感，或者干脆在摸鱼。总之，博客的门关得紧紧的，仿佛在说：今天不营业，改天再来吧！", url: "https://re-lighting.github.io/", show: false },
 		{ go: "🗂️ 前往", img: "https://s41.ax1x.com/2025/12/20/pZ3B4Xt.jpg", title: "网盘", subtitle: "云端的百宝箱，数据的避风港", text: "它不只是一个存储空间，更像是数字世界的 哆啦A 梦口袋 ，想要什么，一掏就有，只是别忘了，口袋再大，也得记得整理，不然找起文件来，比在现实世界找一只袜子还难！", url: "https://drive.google.com/drive/mobile/my-drive?pli=1", show: false },
 		{ go: "📷 前往", img: "https://s41.ax1x.com/2025/12/21/pZ3Xi1H.jpg", title: "仑中", subtitle: "2024-2027北仑中学8班大家庭", text: "三载晴雨都收在这方教室———试卷边的余温，黑板上的光点，友善的同学，都是我们写给彼此青春的注脚。", url: "", show: false },
 		{ go: "🎇 前往", img: "https://s41.ax1x.com/2025/12/21/pZ3jpbq.jpg", title: "星星", subtitle: "1000000颗", text: "每一颗闪烁的星星都是宇宙写给你的一封情书。轻轻滑动指尖，便能穿越亿万光年的寂静，与无数温柔的光点悄然相会。", url: "https://stars.chromeexperiments.com/", show: false },
